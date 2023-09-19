@@ -1,0 +1,5 @@
+log.txt
+*.log
+logs/*.log
+!logs/sample.log
+*.debug
